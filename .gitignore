@@ -664,3 +664,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
+
+.mvn/wrapper
+mvnw
+mvnw.cmd
